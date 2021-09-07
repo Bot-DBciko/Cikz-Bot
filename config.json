@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6285691846420@s.whatsapp.net",
+    "ownerName": "Ciko",
+    "limitCount": 250,
+    "gamewaktu": 60,
+    "botName": "Cikz Bot",
+    "pathImg": "./media/Itsuki2.jpg",
+    "apikey": "-",
+    "fake": "CIKZ-BOT VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "session",
+    "txtDonasi": "GOPAY : 081510630141\nOVO : 081510630141\nMANDIRI : 1400020530854\n\n*Terimakasih banyak yang sudah mau berdonasi*",
+    "gcount": {
+        "prem": 100,
+        "user": 50
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
