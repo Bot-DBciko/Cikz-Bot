@@ -1,0 +1,13 @@
+{
+    "wait": "*Tunggu permintaan anda sedang diproses*",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan"
+    },
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup\nJika ingin masuk ke dalam grup, Silahkan ketik *!royalgroup*",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member PREMIUM👑\nJika ingin membeli PREMIUM silahkan ketik *!daftarpremium* cuma 5K aja udah dapat akses fitur PREMIUM selama 1 bulan\n\nCek Fitur PREMIUM nya di *!premiummenu*"
+}
